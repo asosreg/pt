@@ -12,6 +12,14 @@ h1 {
  } 
    
  p { font-family: arial; } 
+
+
+  img {
+      max-width: 25%;
+      display: float;
+      float: left;
+      margin-right: 1em;
+  }
      
    
 
