@@ -6,7 +6,7 @@
 
 ### 1. Box model
 
-1. In the example html - have a look at the box model of each individual element on the page by opening up the browser developer tools and clicking on the elements in the DOM inspector.
+1. Open the box-example.html file in your browser - have a look at the box model of each individual element on the page by opening up the browser developer tools (f12 in chrome) and clicking on the elements.
 
 2. Set some margin-bottom on the main element, say 20px. Now set some margin-top on the footer element, say 15px. Note how the 2nd one of these actions makes no difference to the layout — this shows margin collapsing in action; When two boxes touch against one another, the distance between them is the value of the largest of the two touching margins, and not their sum.
 
