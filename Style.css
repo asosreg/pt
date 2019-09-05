@@ -23,6 +23,12 @@ h1 {
       float: left;
       margin-right: 1em;
   }
+  
+  ul {display: float;
+      float: left;
+      margin-right: 1em;
+      
+      }
      
    
 
